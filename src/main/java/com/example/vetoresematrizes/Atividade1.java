@@ -1,5 +1,4 @@
-//Atividade 1 - Produção de Milho por0 Semana
-
+//Atividade 1 - Produção de Milho por Semana
 
 package com.example.vetoresematrizes;
 
