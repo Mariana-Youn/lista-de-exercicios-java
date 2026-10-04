@@ -30,7 +30,7 @@ Os exercícios estão organizados por atividade e conteúdo dentro do diretório
 
 Atualmente, o repositório possui:
 
-### Lista de Exercícios
+### Lista de Exercícios - Níveis do 1 ao 5
 
 Exercícios organizados em cinco níveis de dificuldade:
 
