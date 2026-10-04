@@ -18,6 +18,8 @@ As atividades abordam diferentes conceitos da linguagem Java, incluindo:
 - Operadores lógicos aplicados a condições
 - Estruturas de repetição com while e do-while
 - Contadores e acumuladores
+- Vetores
+- Matrizes
 - Aplicação dos conceitos fundamentais de Java
 
 ## Organização
@@ -72,6 +74,36 @@ contém atividades voltadas à prática de estruturas de repetição em Java, ut
 
 As atividades trabalham situações como controle de entrada em eventos, produção industrial, soma de vendas, pesquisa de satisfação, caixa de supermercado e controle de estoque.
 
+### Vetores e Matrizes
+
+A pasta:
+
+`vetoresematrizes`
+
+contém atividades voltadas à prática de vetores e matrizes em Java.
+
+As atividades trabalham situações relacionadas ao contexto agrícola, utilizando:
+
+- Vetores
+- Matrizes
+- Estruturas de repetição
+- Contadores e acumuladores
+- Cálculos de médias e totais
+- Identificação de maiores valores
+
+Entre as atividades desenvolvidas estão:
+
+- Produção de milho por semana
+- Temperatura em estufa
+- Consumo de água na irrigação
+- Produção de hortaliças por talhão
+- Umidade do solo
+- Produção agrícola por mês e cultura
+- Monitoramento de chuvas
+- Controle de pragas
+- Mapa de fertilidade do solo
+- Produção de frutas por pomar
+
 ## Estrutura do Projeto
 
 A organização principal do projeto é:
@@ -87,7 +119,8 @@ A organização principal do projeto é:
                     ├── nivel4/
                     ├── nivel5/
                     ├── estruturasdecisao/
-                    └── estruturasrepeticao/
+                    ├── estruturasrepeticao/
+                    └── vetoresematrizes/
 
 Novas pastas poderão ser adicionadas conforme o desenvolvimento de outras atividades e conteúdos da disciplina.
 
