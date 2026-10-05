@@ -1,3 +1,5 @@
+//Atividade 3 - Soma de Vendas do Dia
+
 package com.example.estruturasrepeticao;
 
 import java.util.Scanner;

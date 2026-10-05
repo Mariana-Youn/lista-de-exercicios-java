@@ -1,3 +1,5 @@
+//Atividade 6 - Controle de Estoque
+
 package com.example.estruturasrepeticao;
 
 public class Atividade6 {

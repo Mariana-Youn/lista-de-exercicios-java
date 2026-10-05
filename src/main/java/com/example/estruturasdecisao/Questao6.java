@@ -1,3 +1,5 @@
+//Questão 6 - Direito ao Vale Refeição
+
 package com.example.estruturasdecisao;
 
 import java.util.Scanner;

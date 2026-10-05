@@ -1,3 +1,5 @@
+//Atividade 4 - Pesquisa de Satisfação
+
 package com.example.estruturasrepeticao;
 
 import java.util.Scanner;

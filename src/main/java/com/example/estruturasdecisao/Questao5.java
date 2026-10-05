@@ -1,3 +1,5 @@
+//Questão 5 - Dia da Semana
+
 package com.example.estruturasdecisao;
 
 import java.util.Scanner;

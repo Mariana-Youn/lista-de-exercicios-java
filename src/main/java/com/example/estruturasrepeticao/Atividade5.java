@@ -1,3 +1,5 @@
+//Atividade 5 - Caixa de Supermercado
+
 package com.example.estruturasrepeticao;
 
 import java.util.Scanner;

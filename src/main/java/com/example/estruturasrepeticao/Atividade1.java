@@ -1,3 +1,5 @@
+//Atividade 1 - Controle de Entrada em Evento
+
 package com.example.estruturasrepeticao;
 
 import java.util.Scanner;
