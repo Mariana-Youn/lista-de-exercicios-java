@@ -1,0 +1,37 @@
+//Atividade 10 - Buscar um valor em uma matriz
+
+package com.example.vetoresematrizesparte2;
+
+public class Atividade10
+{
+    public static void main(String args[])
+    {
+        int matriz[][] = {
+            {1, 2, 3},
+            {4, 5, 6},
+            {7, 8, 9}
+        };
+
+        boolean encontrou = false;
+
+        for (int i = 0; i < 3; i++)
+        {
+            for (int j = 0; j < 3; j++)
+            {
+                if (matriz[i][j] == 8)
+                {
+                    encontrou = true;
+                }
+            }
+        }
+
+        if (encontrou == true)
+        {
+            System.out.println("O valor 8 foi encontrado na matriz.");
+        }
+        else
+        {
+            System.out.println("O valor 8 não foi encontrado na matriz.");
+        }
+    }
+}

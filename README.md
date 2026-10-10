@@ -8,19 +8,24 @@ O repositório será atualizado conforme novos conteúdos e exercícios forem de
 
 As atividades abordam diferentes conceitos da linguagem Java, incluindo:
 
-- Tipos de dados e casting
-- Operadores aritméticos, relacionais e lógicos
-- Entrada de dados com Scanner
-- Cálculos e fórmulas
-- Conversão de valores e medidas
-- Estruturas de decisão com if, else if e else
-- Estrutura de decisão switch
-- Operadores lógicos aplicados a condições
-- Estruturas de repetição com while e do-while
-- Contadores e acumuladores
-- Vetores
-- Matrizes
-- Aplicação dos conceitos fundamentais de Java
+* Tipos de dados e casting
+* Operadores aritméticos, relacionais e lógicos
+* Entrada de dados com `Scanner`
+* Cálculos e fórmulas
+* Conversão de valores e medidas
+* Estruturas de decisão com `if`, `else if` e `else`
+* Estrutura de decisão `switch`
+* Operadores lógicos aplicados a condições
+* Estruturas de repetição com `while` e `do-while`
+* Laços `for`
+* Contadores e acumuladores
+* Vetores e matrizes
+* Soma de elementos
+* Identificação de maiores valores
+* Contagem de números pares
+* Cálculo de médias
+* Busca de valores em vetores e matrizes
+* Aplicação dos conceitos fundamentais de Java
 
 ## Organização
 
@@ -34,103 +39,111 @@ Atualmente, o repositório possui:
 
 Exercícios organizados em cinco níveis de dificuldade:
 
-- `nivel1`
-- `nivel2`
-- `nivel3`
-- `nivel4`
-- `nivel5`
+* `nivel1`
+* `nivel2`
+* `nivel3`
+* `nivel4`
+* `nivel5`
 
 Esses níveis reúnem exercícios de fundamentos de Java, trabalhando entrada de dados, operadores, cálculos, conversões e lógica de programação.
 
 ### Estruturas de Decisão
 
-A pasta:
+A pasta `estruturasdecisao` contém exercícios voltados à prática de estruturas de decisão em Java, utilizando recursos como:
 
-`estruturasdecisao`
-
-contém exercícios voltados à prática de estruturas de decisão em Java, utilizando recursos como:
-
-- `if`
-- `else`
-- `else if`
-- `switch`
-- Operadores relacionais
-- Operadores lógicos
+* `if`
+* `else`
+* `else if`
+* `switch`
+* Operadores relacionais
+* Operadores lógicos
 
 As questões trabalham diferentes situações para aplicar condições e tomadas de decisão dentro dos programas.
 
 ### Estruturas de Repetição
 
-A pasta:
+A pasta `estruturasrepeticao` contém atividades voltadas à prática de estruturas de repetição em Java, utilizando recursos como:
 
-`estruturasrepeticao`
-
-contém atividades voltadas à prática de estruturas de repetição em Java, utilizando recursos como:
-
-- `while`
-- `do-while`
-- Contadores
-- Acumuladores
+* `while`
+* `do-while`
+* Contadores
+* Acumuladores
 
 As atividades trabalham situações como controle de entrada em eventos, produção industrial, soma de vendas, pesquisa de satisfação, caixa de supermercado e controle de estoque.
 
 ### Vetores e Matrizes
 
-A pasta:
-
-`vetoresematrizes`
-
-contém atividades voltadas à prática de vetores e matrizes em Java.
+A pasta `vetoresematrizes` contém atividades voltadas à prática de vetores e matrizes em Java.
 
 As atividades trabalham situações relacionadas ao contexto agrícola, utilizando:
 
-- Vetores
-- Matrizes
-- Estruturas de repetição
-- Contadores e acumuladores
-- Cálculos de médias e totais
-- Identificação de maiores valores
+* Vetores
+* Matrizes
+* Estruturas de repetição
+* Contadores e acumuladores
+* Cálculos de médias e totais
+* Identificação de maiores valores
 
 Entre as atividades desenvolvidas estão:
 
-- Produção de milho por semana
-- Temperatura em estufa
-- Consumo de água na irrigação
-- Produção de hortaliças por talhão
-- Umidade do solo
-- Produção agrícola por mês e cultura
-- Monitoramento de chuvas
-- Controle de pragas
-- Mapa de fertilidade do solo
-- Produção de frutas por pomar
+* Produção de milho por semana
+* Temperatura em estufa
+* Consumo de água na irrigação
+* Produção de hortaliças por talhão
+* Umidade do solo
+* Produção agrícola por mês e cultura
+* Monitoramento de chuvas
+* Controle de pragas
+* Mapa de fertilidade do solo
+* Produção de frutas por pomar
+
+### Vetores e Matrizes - Parte 2
+
+A pasta `vetoresematrizesparte2` contém uma segunda lista de exercícios de revisão sobre vetores e matrizes em Java.
+
+As atividades trabalham:
+
+* Soma dos elementos de um vetor
+* Identificação do maior elemento de um vetor
+* Contagem de números pares em um vetor
+* Exibição de um vetor em ordem inversa
+* Cálculo da média dos elementos de um vetor
+* Soma dos elementos de uma matriz
+* Identificação do maior valor de uma matriz
+* Soma dos elementos de cada linha de uma matriz
+* Contagem de números pares em uma matriz
+* Busca de um valor em uma matriz
 
 ## Estrutura do Projeto
 
 A organização principal do projeto é:
 
-    src/
-    └── main/
-        └── java/
-            └── com/
-                └── example/
-                    ├── nivel1/
-                    ├── nivel2/
-                    ├── nivel3/
-                    ├── nivel4/
-                    ├── nivel5/
-                    ├── estruturasdecisao/
-                    ├── estruturasrepeticao/
-                    └── vetoresematrizes/
+```text
+src/
+└── main/
+    └── java/
+        └── com/
+            └── example/
+                ├── nivel1/
+                ├── nivel2/
+                ├── nivel3/
+                ├── nivel4/
+                ├── nivel5/
+                ├── estruturasdecisao/
+                ├── estruturasrepeticao/
+                ├── vetoresematrizes/
+                └── vetoresematrizesparte2/
+```
 
 Novas pastas poderão ser adicionadas conforme o desenvolvimento de outras atividades e conteúdos da disciplina.
 
 ## Tecnologias utilizadas
 
-- Java
-- Maven
-- Git
-- GitHub
-- Visual Studio Code
+* Java
+* Maven
+* Git
+* GitHub
+* Visual Studio Code
 
 ## Autora
 
