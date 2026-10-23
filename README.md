@@ -25,6 +25,11 @@ As atividades abordam diferentes conceitos da linguagem Java, incluindo:
 * Contagem de números pares
 * Cálculo de médias
 * Busca de valores em vetores e matrizes
+* Funções e métodos em Java
+* Criação e invocação de métodos
+* Passagem de parâmetros
+* Tipos de retorno, incluindo `void`, `int`, `double` e `boolean`
+* Utilização de `return`
 * Aplicação dos conceitos fundamentais de Java
 
 ## Organização
@@ -114,6 +119,26 @@ As atividades trabalham:
 * Contagem de números pares em uma matriz
 * Busca de um valor em uma matriz
 
+### Funções
+
+A pasta `funcoes` contém exercícios voltados à criação e à utilização de métodos em Java, seguindo os conceitos estudados em aula.
+
+As atividades trabalham:
+
+* Criação de métodos sem retorno
+* Invocação de métodos pelo `main`
+* Métodos com parâmetros
+* Métodos com retorno
+* Soma de dois números
+* Cálculo do dobro de um número
+* Conversão de graus Celsius para Fahrenheit
+* Cálculo da média de três notas
+* Verificação de números pares
+* Identificação do maior de três números
+* Cálculo de fatorial
+* Cálculo de potência
+* Cálculo do Índice de Massa Corporal (IMC)
+
 ## Estrutura do Projeto
 
 A organização principal do projeto é:
@@ -132,7 +157,8 @@ src/
                 ├── estruturasdecisao/
                 ├── estruturasrepeticao/
                 ├── vetoresematrizes/
-                └── vetoresematrizesparte2/
+                ├── vetoresematrizesparte2/
+                └── funcoes/
 ```
 
 Novas pastas poderão ser adicionadas conforme o desenvolvimento de outras atividades e conteúdos da disciplina.
